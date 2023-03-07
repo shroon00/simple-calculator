@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">calculator</string>
+    <string name="zero">0</string>
+    <string name="plus">+</string>
+    <string name="min">-</string>
+    <string name="mod">%</string>
+    <string name="eq">=</string>
+    <string name="div">/</string>
+    <string name="mul">*</string>
+</resources>
